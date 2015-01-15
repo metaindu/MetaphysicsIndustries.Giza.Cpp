@@ -37,4 +37,10 @@
   <ItemGroup>
     <None Include="c++.giza" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="giza\MetaphysicsIndustries.Giza.csproj">
+      <Project>{98B42ACF-8370-4428-9D41-73FF1CEFB2E4}</Project>
+      <Name>MetaphysicsIndustries.Giza</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>
